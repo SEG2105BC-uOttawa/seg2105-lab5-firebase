@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "258269738782",
+    "project_id": "lab5-firebase-6d391",
+    "storage_bucket": "lab5-firebase-6d391.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258269738782:android:44392f821b9da73d2d7b0f",
+        "android_client_info": {
+          "package_name": "com.example.lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKZ0AXZ2VirrgCxZltMjzF8-2N42wOZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258269738782:android:065218f17a3922f22d7b0f",
+        "android_client_info": {
+          "package_name": "com.example.lab5_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGKZ0AXZ2VirrgCxZltMjzF8-2N42wOZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
